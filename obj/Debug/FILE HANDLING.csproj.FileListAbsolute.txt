@@ -1,0 +1,7 @@
+C:\Users\Admin1\source\repos\FILE HANDLING\bin\Debug\FILE HANDLING.exe.config
+C:\Users\Admin1\source\repos\FILE HANDLING\bin\Debug\FILE HANDLING.exe
+C:\Users\Admin1\source\repos\FILE HANDLING\bin\Debug\FILE HANDLING.pdb
+C:\Users\Admin1\source\repos\FILE HANDLING\obj\Debug\FILE HANDLING.csproj.AssemblyReference.cache
+C:\Users\Admin1\source\repos\FILE HANDLING\obj\Debug\FILE HANDLING.csproj.CoreCompileInputs.cache
+C:\Users\Admin1\source\repos\FILE HANDLING\obj\Debug\FILE HANDLING.exe
+C:\Users\Admin1\source\repos\FILE HANDLING\obj\Debug\FILE HANDLING.pdb
